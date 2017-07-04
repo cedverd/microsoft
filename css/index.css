@@ -58,3 +58,12 @@ img
 	width: 1220px;
 	height: 450px;
 }
+.pt
+{
+	
+position: relative;
+	
+top: 0;
+	
+bottom: 500px;
+}
